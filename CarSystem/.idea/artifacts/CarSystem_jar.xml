@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarSystem_jar</output-path>
+    <root id="archive" name="CarSystem.jar">
+      <element id="module-output" name="CarSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/druid-1.2.18.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-j-8.3.0" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.30" />
+      <element id="library" level="project" name="druid-1.2.18" />
+    </root>
+  </artifact>
+</component>
